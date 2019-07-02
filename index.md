@@ -4,7 +4,7 @@ layout: default
 
 ---
 # .\JoaoVictorAcampora II
-Olá pessoas desse Brasil, se quiserem apoiar a "page" do pai aqui printa a pagina.
+
 
 ---
 
